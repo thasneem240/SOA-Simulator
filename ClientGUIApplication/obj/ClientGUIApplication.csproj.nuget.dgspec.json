@@ -1,0 +1,167 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\COMP3008 Distributed Computing\\Assignment\\Assignment\\Assignmnet_1\\ClientGUIApplication\\ClientGUIApplication.csproj": {}
+  },
+  "projects": {
+    "E:\\COMP3008 Distributed Computing\\Assignment\\Assignment\\Assignmnet_1\\Authenticator\\Authenticator.csproj": {
+      "restore": {
+        "projectUniqueName": "E:\\COMP3008 Distributed Computing\\Assignment\\Assignment\\Assignmnet_1\\Authenticator\\Authenticator.csproj",
+        "projectName": "Authenticator",
+        "projectPath": "E:\\COMP3008 Distributed Computing\\Assignment\\Assignment\\Assignmnet_1\\Authenticator\\Authenticator.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "E:\\COMP3008 Distributed Computing\\Assignment\\Assignment\\Assignmnet_1\\ClientGUIApplication\\ClientGUIApplication.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\COMP3008 Distributed Computing\\Assignment\\Assignment\\Assignmnet_1\\ClientGUIApplication\\ClientGUIApplication.csproj",
+        "projectName": "ClientGUIApplication",
+        "projectPath": "E:\\COMP3008 Distributed Computing\\Assignment\\Assignment\\Assignmnet_1\\ClientGUIApplication\\ClientGUIApplication.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "E:\\COMP3008 Distributed Computing\\Assignment\\Assignment\\Assignmnet_1\\ClientGUIApplication\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "E:\\COMP3008 Distributed Computing\\Assignment\\Assignment\\Assignmnet_1\\Authenticator\\Authenticator.csproj": {
+                "projectPath": "E:\\COMP3008 Distributed Computing\\Assignment\\Assignment\\Assignmnet_1\\Authenticator\\Authenticator.csproj"
+              },
+              "E:\\COMP3008 Distributed Computing\\Assignment\\Assignment\\Assignmnet_1\\RegistryProject\\RegistryProject.csproj": {
+                "projectPath": "E:\\COMP3008 Distributed Computing\\Assignment\\Assignment\\Assignmnet_1\\RegistryProject\\RegistryProject.csproj"
+              },
+              "E:\\COMP3008 Distributed Computing\\Assignment\\Assignment\\Assignmnet_1\\ServiceProvider\\ServiceProvider.csproj": {
+                "projectPath": "E:\\COMP3008 Distributed Computing\\Assignment\\Assignment\\Assignmnet_1\\ServiceProvider\\ServiceProvider.csproj"
+              },
+              "E:\\COMP3008 Distributed Computing\\Assignment\\Assignment\\Assignmnet_1\\ServicePublishingConsoleApplication\\ServicePublishingConsoleApplication.csproj": {
+                "projectPath": "E:\\COMP3008 Distributed Computing\\Assignment\\Assignment\\Assignmnet_1\\ServicePublishingConsoleApplication\\ServicePublishingConsoleApplication.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "RestSharp": {
+              "target": "Package",
+              "version": "[108.0.2, )"
+            },
+            "System.ServiceModel.Primitives": {
+              "target": "Package",
+              "version": "[4.10.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\COMP3008 Distributed Computing\\Assignment\\Assignment\\Assignmnet_1\\RegistryProject\\RegistryProject.csproj": {
+      "restore": {
+        "projectUniqueName": "E:\\COMP3008 Distributed Computing\\Assignment\\Assignment\\Assignmnet_1\\RegistryProject\\RegistryProject.csproj",
+        "projectName": "RegistryProject",
+        "projectPath": "E:\\COMP3008 Distributed Computing\\Assignment\\Assignment\\Assignmnet_1\\RegistryProject\\RegistryProject.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "E:\\COMP3008 Distributed Computing\\Assignment\\Assignment\\Assignmnet_1\\Authenticator\\Authenticator.csproj": {
+                "projectPath": "E:\\COMP3008 Distributed Computing\\Assignment\\Assignment\\Assignmnet_1\\Authenticator\\Authenticator.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "E:\\COMP3008 Distributed Computing\\Assignment\\Assignment\\Assignmnet_1\\ServiceProvider\\ServiceProvider.csproj": {
+      "restore": {
+        "projectUniqueName": "E:\\COMP3008 Distributed Computing\\Assignment\\Assignment\\Assignmnet_1\\ServiceProvider\\ServiceProvider.csproj",
+        "projectName": "ServiceProvider",
+        "projectPath": "E:\\COMP3008 Distributed Computing\\Assignment\\Assignment\\Assignmnet_1\\ServiceProvider\\ServiceProvider.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "E:\\COMP3008 Distributed Computing\\Assignment\\Assignment\\Assignmnet_1\\Authenticator\\Authenticator.csproj": {
+                "projectPath": "E:\\COMP3008 Distributed Computing\\Assignment\\Assignment\\Assignmnet_1\\Authenticator\\Authenticator.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "E:\\COMP3008 Distributed Computing\\Assignment\\Assignment\\Assignmnet_1\\ServicePublishingConsoleApplication\\ServicePublishingConsoleApplication.csproj": {
+      "restore": {
+        "projectUniqueName": "E:\\COMP3008 Distributed Computing\\Assignment\\Assignment\\Assignmnet_1\\ServicePublishingConsoleApplication\\ServicePublishingConsoleApplication.csproj",
+        "projectName": "ServicePublishingConsoleApplication",
+        "projectPath": "E:\\COMP3008 Distributed Computing\\Assignment\\Assignment\\Assignmnet_1\\ServicePublishingConsoleApplication\\ServicePublishingConsoleApplication.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "E:\\COMP3008 Distributed Computing\\Assignment\\Assignment\\Assignmnet_1\\Authenticator\\Authenticator.csproj": {
+                "projectPath": "E:\\COMP3008 Distributed Computing\\Assignment\\Assignment\\Assignmnet_1\\Authenticator\\Authenticator.csproj"
+              },
+              "E:\\COMP3008 Distributed Computing\\Assignment\\Assignment\\Assignmnet_1\\RegistryProject\\RegistryProject.csproj": {
+                "projectPath": "E:\\COMP3008 Distributed Computing\\Assignment\\Assignment\\Assignmnet_1\\RegistryProject\\RegistryProject.csproj"
+              },
+              "E:\\COMP3008 Distributed Computing\\Assignment\\Assignment\\Assignmnet_1\\ServiceProvider\\ServiceProvider.csproj": {
+                "projectPath": "E:\\COMP3008 Distributed Computing\\Assignment\\Assignment\\Assignmnet_1\\ServiceProvider\\ServiceProvider.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    }
+  }
+}

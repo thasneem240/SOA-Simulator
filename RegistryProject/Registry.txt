@@ -1,0 +1,4 @@
+{"Name":"AddTwoNumbers","Description":"Adding two numbers","API_Endpoint":"http://localhost:59985/api/AddTwoNumbers/{token}/{num1}/{num2}","Number_of_operands":"2","Operand_type":"int"}
+{"Name":"AddThreeNumbers","Description":"Adding three numbers","API_Endpoint":"http://localhost:59985/api/AddThreeNumbers/{token}/{num1}/{num2}/{num3}","Number_of_operands":"3","Operand_type":"int"}
+{"Name":"MulTwoNumbers","Description":"Multiplying two numbers","API_Endpoint":"http://localhost:59985/api/MulTwoNumbers/{token}/{num1}/{num2}","Number_of_operands":"2","Operand_type":"int"}
+{"Name":"MulThreeNumbers","Description":"Multiplying three numbers","API_Endpoint":"http://localhost:59985/api/MulThreeNumbers/{token}/{num1}/{num2}/{num3}","Number_of_operands":"3","Operand_type":"int"}

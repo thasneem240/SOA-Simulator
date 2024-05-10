@@ -1,0 +1,8 @@
+E:\COMP3008 Distributed Computing\Assignment\Assignment\Assignmnet_1\Authenticator\bin\Debug\Authenticator.exe.config
+E:\COMP3008 Distributed Computing\Assignment\Assignment\Assignmnet_1\Authenticator\bin\Debug\Authenticator.exe
+E:\COMP3008 Distributed Computing\Assignment\Assignment\Assignmnet_1\Authenticator\bin\Debug\Authenticator.pdb
+E:\COMP3008 Distributed Computing\Assignment\Assignment\Assignmnet_1\Authenticator\obj\Debug\Authenticator.csproj.AssemblyReference.cache
+E:\COMP3008 Distributed Computing\Assignment\Assignment\Assignmnet_1\Authenticator\obj\Debug\Authenticator.csproj.SuggestedBindingRedirects.cache
+E:\COMP3008 Distributed Computing\Assignment\Assignment\Assignmnet_1\Authenticator\obj\Debug\Authenticator.csproj.CoreCompileInputs.cache
+E:\COMP3008 Distributed Computing\Assignment\Assignment\Assignmnet_1\Authenticator\obj\Debug\Authenticator.exe
+E:\COMP3008 Distributed Computing\Assignment\Assignment\Assignmnet_1\Authenticator\obj\Debug\Authenticator.pdb
